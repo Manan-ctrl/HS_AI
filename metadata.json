@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Aijaz",
+  "description": "A professional, AI-powered expense tracker featuring voice interaction, deep financial planning, and real-time market insights.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
